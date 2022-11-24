@@ -48,3 +48,12 @@ img {
     width: 500px;
     text-align: center;
 }
+
+imcentro [
+    width: 200px;
+    heigth:200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+]
