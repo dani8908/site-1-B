@@ -49,11 +49,10 @@ img {
     text-align: center;
 }
 
-imcentro [
+#imcentro [
     width: 200px;
-    heigth:200px;
+    heigth: 200px;
     display: block;
     margin-left: auto;
-    margin-right: auto;
-
+    margin-right: auto
 ]
